@@ -1,0 +1,13 @@
+# Go binaries
+canary
+canary.exe
+*.test
+
+# Runtime data
+canaries.json
+drops/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
